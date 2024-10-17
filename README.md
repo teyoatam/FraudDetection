@@ -236,5 +236,3 @@ https://www.datacamp.com/tutorial/explainable-ai-understanding-and-trusting-mach
 
 https://flask.palletsprojects.com/en/3.0.x/
 https://www.geeksforgeeks.org/flask-tutorial/
-
-## Author: Abigiya Ayele.
